@@ -1,7 +1,7 @@
 # Why
 How do you open an incognito window in Chrome using Cypress?
 
-This repo includes an example using the plugin method using `'before:browser:launch'` see [\cypress\plugins\index.js](\cypress\plugins\index.js)
+This repo includes an example using the plugin method using `'before:browser:launch'` see \cypress\plugins\index.js
 
 
 Incognito windows are launched by passing the --incognito flag when spawning the browser.
