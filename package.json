@@ -1,0 +1,17 @@
+{
+	"name": "cypress-incognito",
+	"version": "1.0.0",
+	"description": "Cypress running in Chrome Incognito",
+	"main": "",
+	"scripts": {
+		"cypress": "npx cypress open"
+	},
+	"author": "Beau Holland",
+	"license": "",
+	"dependencies": {
+		"concurrently": "^4.1.0"
+	},
+	"devDependencies": {
+		"cypress": "^3.2.0"
+	}
+}
