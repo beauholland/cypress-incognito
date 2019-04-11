@@ -18,4 +18,4 @@ Clone repo
 Select any example test to run.
 
 Result... Chrome launch in incognito mode but... "Whoops we can't run your tests"
-![Incognito](https://raw.githubusercontent.com/beauholland/cypress-incognito/blob/master/incognito.png)
+![Incognito](incognito.png?raw=true "Incognito")
